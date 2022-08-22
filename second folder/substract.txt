@@ -1,7 +1,7 @@
-public class Add{
+public class Sub{
 public static void main(String args[]){
-int a,d;
-int c=a+d;
+int a,b;
+int c=a-b;
 System.out.print(c);
 }
 }
