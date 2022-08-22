@@ -1,7 +1,7 @@
 public class Add{
 public static void main(String args[]){
-int a,b;
-int c=a+b;
+int a,e;
+int c=a+e;
 System.out.print(c);
 }
 }
